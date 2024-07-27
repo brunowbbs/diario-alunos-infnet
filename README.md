@@ -1,4 +1,4 @@
-# Projeto Diário alunos
+# Projeto Diário alunos via API REST
 
 Projeto criado durante a disciplina de Desenvolvimento Web com React do Infnet.
 
