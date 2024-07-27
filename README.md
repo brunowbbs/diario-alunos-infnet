@@ -1,8 +1,9 @@
-# React + Vite
+# Projeto Diário alunos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto criado durante a disciplina de Desenvolvimento Web com React do Infnet.
 
-Currently, two official plugins are available:
+  <img alt="Home" src="./img.jpeg" width="1024" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Figma: https://www.figma.com/design/MYRL5eJPhlYmZxBLy4bpTX/Untitled?node-id=0-1&t=Tgmush9NdsS71lZf-1
+
+API: https://api-aluno.vercel.app/
